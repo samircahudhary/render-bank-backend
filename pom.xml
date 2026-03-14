@@ -92,7 +92,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<mainClass>com.bank.bank_backend.BankBackendApplication</mainClass>
+					<mainClass>BankBackendApplication</mainClass>
 				</configuration>
 			</plugin>
 
